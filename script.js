@@ -1,5 +1,5 @@
-// আপনার হোয়াটসঅ্যাপ নম্বরটি এখানে লিখুন (যেমন: 8801700000000)
-const whatsappNumber = "8801700000000"; 
+// আপনার হোয়াটসঅ্যাপ নম্বরটি এখানে লিখুন (যেমন: +8801341854121)
+const whatsappNumber = "+8801341854121"; 
 
 document.addEventListener("DOMContentLoaded", function() {
     const waButtons = document.querySelectorAll('.wa-btn');
